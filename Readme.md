@@ -1,5 +1,9 @@
 BITFAM user guide
 ================
+
+# BITFAM zebrafish
+Adds option to analyse the data from Danio rerio. The TF binding is aproximated using JASPAR motifs found in the promoter regions of the genes.
+
 # Introduction
 
 Bayesian Inference Transcription Factor Activity model (BITFAM) is based on a fundamental biological principle that the differences in scRNA-seq profiles of individual cells reflect distinct underlying transcription factor activity states.
