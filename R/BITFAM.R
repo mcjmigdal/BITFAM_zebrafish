@@ -17,6 +17,8 @@ BITFAM <- function(data, species, interseted_TF = NA, scATAC_obj = NA,ncores, it
     TF_targets_dir <- "mouse/"
   }else if(species == "human"){
     TF_targets_dir <- "human/"
+  }else if(species == "zebrafish"){
+    TF_targets_dir <- "zebrafish/"
   }else{
     stop("The species must be either mouse or human.")
   }
@@ -29,9 +31,14 @@ BITFAM <- function(data, species, interseted_TF = NA, scATAC_obj = NA,ncores, it
     data <- data[variable_genes, ]
   }
   
-  All_TFs <-system.file("extdata", paste0(TF_targets_dir, "all_TFs.txt"), package = "BITFAM")
-  All_TFs <- read.table(All_TFs, stringsAsFactors = F)$V1
-  TF_used <- rownames(data)[rownames(data) %in% All_TFs]
+  All_TFs <- system.file("extdata", paste0(TF_targets_dir, "all_TFs.txt"), package = "BITFAM")
+  if (species != "zebrafish") {
+      All_TFs <- read.table(All_TFs, stringsAsFactors = F)$V1
+      TF_used <- rownames(data)[rownames(data) %in% All_TFs]
+  } else {
+      All_TFs <- read.csv(All_TFs, stringsAsFactors = F)
+      TF_used <- unique(All_TFs$V1[All_TFs$V2 %in% rownames(data)])
+  }
   rownames(data) <- toupper(rownames(data))
   if(is.na(interseted_TF)){
   }else{
@@ -46,14 +53,6 @@ BITFAM <- function(data, species, interseted_TF = NA, scATAC_obj = NA,ncores, it
   }
 
   TF_used <- TF_used[ unlist(lapply(gene_list, length)) > 10]
-
-  gene_list <- list()
-  for(i in TF_used){
-    TF_targets_path <-system.file("extdata", paste0(TF_targets_dir, i), package = "BITFAM")
-    tmp_gene <- read.table(TF_targets_path, stringsAsFactors = F)
-    tmp_gene <- toupper(tmp_gene$V1)
-    gene_list[[which(TF_used == i)]] <- rownames(data)[rownames(data) %in% tmp_gene]
-  }
   
   if(is.na(scATAC_obj)){
   }else{
