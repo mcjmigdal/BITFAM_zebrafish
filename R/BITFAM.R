@@ -37,7 +37,7 @@ BITFAM <- function(data, species, interseted_TF = NA, scATAC_obj = NA,ncores, it
       TF_used <- rownames(data)[rownames(data) %in% All_TFs]
   } else {
       All_TFs <- read.csv(All_TFs, stringsAsFactors = F)
-      TF_used <- unique(All_TFs$V1[All_TFs$V2 %in% rownames(data)])
+      TF_used <- unique(All_TFs$V1[toupper(All_TFs$V2) %in% toupper(rownames(data)]))
   }
   rownames(data) <- toupper(rownames(data))
   if(is.na(interseted_TF)){

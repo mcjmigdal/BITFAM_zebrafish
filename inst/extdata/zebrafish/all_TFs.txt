@@ -1,585 +1,912 @@
-AL807792.3+atoh1a+atoh1b+atoh1c+bloc1s2,ENSDARG00000055294
-AL807792.3+atoh1a+atoh1b+atoh1c+bloc1s2,ENSDARG00000099564
-AL807792.3+atoh1a+atoh1b+atoh1c+bloc1s2,ENSDARG00000110597
-AL807792.3+atoh1a+atoh1b+atoh1c+bloc1s2,ENSDARG00000111472
-BX548005.1+smarcc2,ENSDARG00000110907
-BX548076.1+CR388055.1+cuedc1b+med22+si:dkey-56d12.4+zfhx3+zfhx3a+zfhx4,ENSDARG00000073944
-BX548076.1+CR388055.1+cuedc1b+med22+si:dkey-56d12.4+zfhx3+zfhx3a+zfhx4,ENSDARG00000075542
-BX548076.1+CR388055.1+cuedc1b+med22+si:dkey-56d12.4+zfhx3+zfhx3a+zfhx4,ENSDARG00000103057
-BX548076.1+CR388055.1+cuedc1b+med22+si:dkey-56d12.4+zfhx3+zfhx3a+zfhx4,ENSDARG00000104979
-BX548076.1+CR388055.1+cuedc1b+med22+si:dkey-56d12.4+zfhx3+zfhx3a+zfhx4,ENSDARG00000109672
-BX548076.1+CR388055.1+cuedc1b+med22+si:dkey-56d12.4+zfhx3+zfhx3a+zfhx4,ENSDARG00000111193
-BX548076.1+CR388055.1+cuedc1b+med22+si:dkey-56d12.4+zfhx3+zfhx3a+zfhx4,ENSDARG00000115480
-BX572630.1+relb,ENSDARG00000110381
-CABZ01079241.1+zfx+znf711,ENSDARG00000074453
-CABZ01079241.1+zfx+znf711,ENSDARG00000098424
-CABZ01079241.1+zfx+znf711,ENSDARG00000111963
-CABZ01080371.1+pou2f1b,ENSDARG00000102550
-CABZ01087224.1+hlfb,ENSDARG00000111269
-CABZ01090890.1+atf6,ENSDARG00000101369
-CT027745.1+tbx19,ENSDARG00000112623
-alx1,ENSDARG00000110530
-alx1,ENSDARG00000115230
-alx4a+alx4b,ENSDARG00000088332
-arid3a+arid3b+arid3c,ENSDARG00000070843
-arid3a+arid3b+arid3c,ENSDARG00000104034
-arid3a+arid3b+arid3c,ENSDARG00000114447
-arid5a+arid6+zgc:77151,ENSDARG00000069988
-arid5a+arid6+zgc:77151,ENSDARG00000077120
-arnt,ENSDARG00000115999
-arntl1a+arntl1b,ENSDARG00000035732
-arntl1a+arntl1b,ENSDARG00000114562
-atf4a+atf4b,ENSDARG00000111939
-atf4a+atf4b,ENSDARG00000114163
-atf4a+atf4b,ENSDARG00000114542
-atf5a+atf5b,ENSDARG00000077785
-barhl1a+barhl1b,ENSDARG00000035508
-barhl1a+barhl1b,ENSDARG00000110061
-barhl1a+barhl1b,ENSDARG00000112355
-barhl1a+barhl1b,ENSDARG00000113145
-barhl2,ENSDARG00000114681
-barhl2,ENSDARG00000115723
-batf2+batf3,ENSDARG00000105562
-bcl11aa+znf296,ENSDARG00000077897
-bcl6aa+bcl6ab+bcl6b,ENSDARG00000069335
-bcl6aa+bcl6ab+bcl6b,ENSDARG00000070864
-bcl6aa+bcl6ab+bcl6b,ENSDARG00000111395
-bcl6aa+bcl6ab+bcl6b,ENSDARG00000112502
-bcl6aa+bcl6ab+bcl6b,ENSDARG00000116260
-bsx+nanog,ENSDARG00000075113
-bsx+nanog,ENSDARG00000110782
-cdx1a+cdx1b+ved,ENSDARG00000114554
-cdx1a+cdx1b+ved,ENSDARG00000116139
-cebp1,ENSDARG00000111016
-cers4a+hoxb13a,ENSDARG00000056015
-clocka+clockb+npas2,ENSDARG00000011703
-clocka+clockb+npas2,ENSDARG00000016536
-clocka+clockb+npas2,ENSDARG00000116993
-creb1a+creb1b+crema+cremb,ENSDARG00000053586
-creb1a+creb1b+crema+cremb,ENSDARG00000093420
-creb1a+creb1b+crema+cremb,ENSDARG00000102899
-creb1a+creb1b+crema+cremb,ENSDARG00000109505
-creb1a+creb1b+crema+cremb,ENSDARG00000116064
-crx+otx5,ENSDARG00000043483
-crx+otx5,ENSDARG00000113850
-ctcf,ENSDARG00000113285
-cxxc1a+cxxc1b+mbd1a+mbd1b,ENSDARG00000025718
-cxxc1a+cxxc1b+mbd1a+mbd1b,ENSDARG00000101205
-cxxc1a+cxxc1b+mbd1a+mbd1b,ENSDARG00000101996
-cxxc1a+cxxc1b+mbd1a+mbd1b,ENSDARG00000110318
-cxxc1a+cxxc1b+mbd1a+mbd1b,ENSDARG00000111907
-dbpa+dbpb+hlfa,ENSDARG00000063014
-dbpa+dbpb+hlfa,ENSDARG00000074752
-dbpa+dbpb+hlfa,ENSDARG00000116703
-ddx28+nfatc1+nfatc2b+nfatc3a+nfatc3b+nfatc4,ENSDARG00000051729
-ddx28+nfatc1+nfatc2b+nfatc3a+nfatc3b+nfatc4,ENSDARG00000054162
-ddx28+nfatc1+nfatc2b+nfatc3a+nfatc3b+nfatc4,ENSDARG00000076297
-ddx28+nfatc1+nfatc2b+nfatc3a+nfatc3b+nfatc4,ENSDARG00000079972
-ddx28+nfatc1+nfatc2b+nfatc3a+nfatc3b+nfatc4,ENSDARG00000112133
-dmbx1a+dmbx1b,ENSDARG00000009922
-e2f4,ENSDARG00000109320
-e4f1+si:dkeyp-79b7.12,ENSDARG00000105305
-ebf3a-1+si:ch211-51e8.2,ENSDARG00000099849
-ebf3a-2+ebf3b,ENSDARG00000100244
-egr1,ENSDARG00000115563
-egr2a+egr2b,ENSDARG00000044098
-ehf,ENSDARG00000112589
-elf2a+elf2b,ENSDARG00000079626
-elf2a+elf2b,ENSDARG00000117064
-emx2+emx3,ENSDARG00000039701
-eomesa+eomesb,ENSDARG00000104243
-esr1+esr2a+esr2b,ENSDARG00000016454
-esr1+esr2a+esr2b,ENSDARG00000034181
-esr1+esr2a+esr2b,ENSDARG00000112357
-etv4,ENSDARG00000115855
-eve1+evx1,ENSDARG00000099365
-eve1+evx1,ENSDARG00000100087
-figla,ENSDARG00000115572
-fosb+ttf1.6,ENSDARG00000094107
-fosl1b+jdp2a,ENSDARG00000079373
-foxb1b+foxb2,ENSDARG00000053650
-foxb1b+foxb2,ENSDARG00000110408
-foxb1b+foxb2,ENSDARG00000113373
-foxc1a+foxc1b,ENSDARG00000091481
-foxf1+foxf2a+foxf2b,ENSDARG00000017195
-foxf1+foxf2a+foxf2b,ENSDARG00000070389
-foxg1a+foxg1c+foxg1d+zgc:113424,ENSDARG00000068380
-foxg1a+foxg1c+foxg1d+zgc:113424,ENSDARG00000070053
-foxg1a+foxg1c+foxg1d+zgc:113424,ENSDARG00000070769
-foxg1a+foxg1c+foxg1d+zgc:113424,ENSDARG00000114414
-foxh1+foxq1a+foxq1b+imp3,ENSDARG00000055395
-foxh1+foxq1a+foxq1b+imp3,ENSDARG00000055630
-foxh1+foxq1a+foxq1b+imp3,ENSDARG00000115266
-foxi1+foxi2+foxi3a+foxi3b,ENSDARG00000055926
-foxi1+foxi2+foxi3a+foxi3b,ENSDARG00000069715
-foxi1+foxi2+foxi3a+foxi3b,ENSDARG00000104566
-foxi1+foxi2+foxi3a+foxi3b,ENSDARG00000112022
-foxi1+foxi2+foxi3a+foxi3b,ENSDARG00000112303
-foxi1+foxi2+foxi3a+foxi3b,ENSDARG00000116791
-foxj1a+foxj1b,ENSDARG00000101919
-foxl1,ENSDARG00000111418
-foxo3b+foxo6a+foxo6b,ENSDARG00000042904
-foxo3b+foxo6a+foxo6b,ENSDARG00000100486
-gata1a+gata2b,ENSDARG00000013477
-gata1a+gata2b,ENSDARG00000117116
-gata1b+gata2a,ENSDARG00000059327
-gbx2,ENSDARG00000116377
-gfi1aa+gfi1ab,ENSDARG00000044457
-gfi1aa+gfi1ab,ENSDARG00000114140
-gli1+gli2b,ENSDARG00000101244
-gli2a+gli3,ENSDARG00000052131
-glis1a+glis1b,ENSDARG00000068580
-glis2a+glis2b,ENSDARG00000100232
-gsc,ENSDARG00000111184
-gsc,ENSDARG00000115937
-gsx2+pnx,ENSDARG00000043322
-gsx2+pnx,ENSDARG00000116417
-her6+her8.2+her9,ENSDARG00000056438
-her6+her8.2+her9,ENSDARG00000069675
-her6+her8.2+her9,ENSDARG00000111099
-her6+her8.2+her9,ENSDARG00000115775
-hic1l+hic2,ENSDARG00000100497
-hmbox1a+zgc:91944,ENSDARG00000035887
-hmbox1a+zgc:91944,ENSDARG00000109287
-hmbox1a+zgc:91944,ENSDARG00000114642
-hmx1+hmx3b,ENSDARG00000096716
-hmx1+hmx3b,ENSDARG00000109725
-hmx1+hmx3b,ENSDARG00000111765
-hmx4,ENSDARG00000115000
-hmx4,ENSDARG00000116208
-hnf1ba+hnf1bb,ENSDARG00000022295
-hnf1ba+hnf1bb,ENSDARG00000115522
-hnf4a+hnf4b,ENSDARG00000104742
-hnf4a+hnf4b,ENSDARG00000112985
-homeza+homezb+pgm3,ENSDARG00000024654
-homeza+homezb+pgm3,ENSDARG00000054304
-homeza+homezb+pgm3,ENSDARG00000113138
-hoxa13a+hoxa13b,ENSDARG00000100312
-hoxa1a+hoxb1b-1+hoxc1a,ENSDARG00000070337
-hoxa1a+hoxb1b-1+hoxc1a,ENSDARG00000104307
-hoxa4a+hoxc3a,ENSDARG00000103862
-hoxa9a+hoxa9b,ENSDARG00000105013
-hoxb10a+hoxc10a,ENSDARG00000070348
-hoxb1a+hoxb1b-2,ENSDARG00000112663
-hoxb5a+hoxb5b,ENSDARG00000054030
-hoxb5a+hoxb5b,ENSDARG00000113174
-hoxb6a+hoxb6b,ENSDARG00000026513
-hoxb6a+hoxb6b,ENSDARG00000111786
-hoxb8a+hoxb8b,ENSDARG00000056027
-hoxb8a+hoxb8b,ENSDARG00000111056
-hoxc12a+hoxc12b,ENSDARG00000103133
-hoxc13b+hoxd13a,ENSDARG00000113877
-hoxc6a+hoxc6b,ENSDARG00000101954
-hsf1+hsf4,ENSDARG00000013251
-hsf2+si:dkey-18a10.3,ENSDARG00000090814
-insm1a+insm1b,ENSDARG00000091756
-irf10+irf3+irf8+irf9,ENSDARG00000027658
-irf10+irf3+irf8+irf9,ENSDARG00000056407
-irf10+irf3+irf8+irf9,ENSDARG00000076251
-irf1b+irf2+irf2a+irf7,ENSDARG00000040465
-irf1b+irf2+irf2a+irf7,ENSDARG00000043249
-irf1b+irf2+irf2a+irf7,ENSDARG00000045661
-irf4a+irf4b,ENSDARG00000055374
-irf4a+irf4b,ENSDARG00000115381
-irx1b+irx4a+irx4b,ENSDARG00000036051
-irx1b+irx4a+irx4b,ENSDARG00000056594
-isl1+isl1l,ENSDARG00000021055
-isl1+isl1l,ENSDARG00000110204
-isl2a+isl2b,ENSDARG00000053499
-junba+junbb,ENSDARG00000104773
-klf12a,ENSDARG00000115152
-klf13+zgc:153115,ENSDARG00000069342
-klf15+si:ch211-117k10.3,ENSDARG00000091127
-klf3+klf8,ENSDARG00000060661
-klf3+klf8,ENSDARG00000114143
-klf5l+klf6a+klf6b,ENSDARG00000029072
-klf5l+klf6a+klf6b,ENSDARG00000038561
-klf7a+klf7b,ENSDARG00000073857
-lhx1a+lhx1b,ENSDARG00000014018
-lhx1a+lhx1b,ENSDARG00000111635
-lhx2b+lhx9,ENSDARG00000056979
-lhx3+lhx4,ENSDARG00000039458
-lhx6,ENSDARG00000112520
-lhx8a+lhx8b,ENSDARG00000042145
-mafa+mafbb,ENSDARG00000070542
-mafa+mafbb,ENSDARG00000099120
-mafb+nrl,ENSDARG00000100466
-maff+mafga+mafgb,ENSDARG00000028957
-maff+mafga+mafgb,ENSDARG00000100097
-maff+mafga+mafgb,ENSDARG00000111050
-maza+mazb,ENSDARG00000087330
-mecom+rlf+sinhcafl,ENSDARG00000063553
-mecom+rlf+sinhcafl,ENSDARG00000095007
-mef2aa+mef2ab,ENSDARG00000057527
-mef2aa+mef2ab,ENSDARG00000110771
-mef2ca+mef2cb,ENSDARG00000029764
-meis1a+meis1b,ENSDARG00000012078
-meox1,ENSDARG00000115382
-meox2b,ENSDARG00000116206
-mixl1+mxtx1+sebox,ENSDARG00000069252
-mixl1+mxtx1+sebox,ENSDARG00000069382
-mnx1+mnx2a+mnx2b,ENSDARG00000035984
-mnx1+mnx2a+mnx2b,ENSDARG00000042106
-mnx1+mnx2a+mnx2b,ENSDARG00000109419
-msx1b+msx3,ENSDARG00000015674
-msx2a,ENSDARG00000115813
-mta3,ENSDARG00000113436
-myca+mych,ENSDARG00000077473
-myf6+ttf1.4,ENSDARG00000094043
-nfat5a+nfat5b,ENSDARG00000102556
-nfe2l1b+nfe2l2b,ENSDARG00000089697
-nfe2l1b+nfe2l2b,ENSDARG00000114820
-nfil3+si:dkey-172o19.2,ENSDARG00000071398
-nfil3+si:dkey-172o19.2,ENSDARG00000110085
-nfil3-5+nfil3-6+si:dkey-60d5.3,ENSDARG00000094965
-nfil3-5+nfil3-6+si:dkey-60d5.3,ENSDARG00000097088
-nfil3-5+nfil3-6+si:dkey-60d5.3,ENSDARG00000113345
-nfixa+nfixb,ENSDARG00000061836
-nfkb2,ENSDARG00000112821
-nkx2.3+nkx2.7,ENSDARG00000039095
-nkx2.3+nkx2.7,ENSDARG00000113490
-nkx2.4a+nkx2.4b,ENSDARG00000104107
-nkx2.5,ENSDARG00000116714
-nkx3-2+nkx3.3-2,ENSDARG00000069327
-noto+vax1+vent,ENSDARG00000021916
-noto+vax1+vent,ENSDARG00000100483
-noto+vax1+vent,ENSDARG00000114230
-nr1h4,ENSDARG00000113600
-nr2c1,ENSDARG00000111803
-nr2e3,ENSDARG00000113178
-nr2f1b+nr2f5,ENSDARG00000033172
-nr2f6a+nr2f6b,ENSDARG00000003607
-nr3c2,ENSDARG00000115513
-nr4a1,ENSDARG00000109473
-nr5a1a+nr5a2+nr5a5,ENSDARG00000100940
-nr5a1a+nr5a2+nr5a5,ENSDARG00000103176
-onecut1+onecutl,ENSDARG00000040253
-onecut1+onecutl,ENSDARG00000112251
-onecut3a+onecut3b,ENSDARG00000091059
-otpa+otpb,ENSDARG00000058379
-pax10+pax4+pax6a+pax6b,ENSDARG00000045936
-pax10+pax4+pax6a+pax6b,ENSDARG00000053364
-pax10+pax4+pax6a+pax6b,ENSDARG00000103379
-pax10+pax4+pax6a+pax6b,ENSDARG00000111379
-pax2a+pax5,ENSDARG00000037383
-pax3a+pax3b,ENSDARG00000028348
-pax7a+pax7b+prop1,ENSDARG00000070818
-pax7a+pax7b+prop1,ENSDARG00000100398
-pax7a+pax7b+prop1,ENSDARG00000109950
-pax7a+pax7b+prop1,ENSDARG00000111233
-pax7a+pax7b+prop1,ENSDARG00000114449
-pbx1a+pbx1b+pbx2+pbx3a+pbx3b,ENSDARG00000019717
-pbx1a+pbx1b+pbx2+pbx3a+pbx3b,ENSDARG00000089262
-pbx1a+pbx1b+pbx2+pbx3a+pbx3b,ENSDARG00000100494
-pbx1a+pbx1b+pbx2+pbx3a+pbx3b,ENSDARG00000101131
-pbx1a+pbx1b+pbx2+pbx3a+pbx3b,ENSDARG00000110194
-pitx1+pitx3,ENSDARG00000116608
-plag1+plagx,ENSDARG00000051926
-pou1f1,ENSDARG00000110816
-pou1f1,ENSDARG00000115109
-pou2f2a,ENSDARG00000036816
-pou3f1,ENSDARG00000112302
-pou3f2a+pou3f2b+pou3f3a+pou3f3b,ENSDARG00000070220
-pou3f2a+pou3f2b+pou3f3a+pou3f3b,ENSDARG00000076262
-pou3f2a+pou3f2b+pou3f3a+pou3f3b,ENSDARG00000095896
-pou3f2a+pou3f2b+pou3f3a+pou3f3b,ENSDARG00000112713
-pparaa+pparda+ppardb,ENSDARG00000031777
-pparaa+pparda+ppardb,ENSDARG00000044525
-prox1a+prox2+prox3,ENSDARG00000055158
-prox1a+prox2+prox3,ENSDARG00000088810
-prox1a+prox2+prox3,ENSDARG00000113014
-prox1a+prox2+prox3,ENSDARG00000117137
-prrx1a+prrx1b,ENSDARG00000042027
-ptf1a+si:dkey-34f9.3,ENSDARG00000077813
-raraa+rarab,ENSDARG00000056783
-raraa+rarab,ENSDARG00000111757
-rfx7a+rfx7b,ENSDARG00000103691
-roraa+rorab,ENSDARG00000031768
-roraa+rorab,ENSDARG00000109324
-roraa+rorab,ENSDARG00000113275
-rreb1a+rreb1b+znf598,ENSDARG00000042652
-rreb1a+rreb1b+znf598,ENSDARG00000063701
-runx2a+runx2b,ENSDARG00000059233
-rx1+rx2,ENSDARG00000071684
-rxraa+rxrab+rxrba+rxrgb,ENSDARG00000035127
-rxraa+rxrab+rxrba+rxrgb,ENSDARG00000057737
-rxraa+rxrab+rxrba+rxrgb,ENSDARG00000078954
-rxrbb,ENSDARG00000117079
-scrt1a+scrt1b+scrt2,ENSDARG00000056175
-scrt1a+scrt1b+scrt2,ENSDARG00000100821
-scrt1a+scrt1b+scrt2,ENSDARG00000110984
-si:dkey-229b18.3+snai2,ENSDARG00000095912
-si:dkey-43p13.5+uncx,ENSDARG00000104199
-six4a+six4b,ENSDARG00000031983
-six6a+six6b,ENSDARG00000031316
-smad3a+smad3b,ENSDARG00000036096
-smad3a+smad3b,ENSDARG00000117146
-snai1b+snai3,ENSDARG00000046019
-sox11a+sox11b,ENSDARG00000095743
-sox13,ENSDARG00000112638
-sox14+sox14-1,ENSDARG00000111969
-sox19a+sox19b+sox3,ENSDARG00000040266
-sox19a+sox19b+sox3,ENSDARG00000053569
-sox19a+sox19b+sox3,ENSDARG00000110497
-sox1a+sox1b,ENSDARG00000069866
-sox1a+sox1b,ENSDARG00000110682
-sox1a+sox1b,ENSDARG00000114571
-sox21a+sox21b,ENSDARG00000031664
-sox21a+sox21b,ENSDARG00000111842
-sox32+sox7,ENSDARG00000100591
-sox4a+sox4b,ENSDARG00000098834
-sox8a+sox8b,ENSDARG00000105301
-sox9a+sox9b,ENSDARG00000043923
-sp2,ENSDARG00000113443
-sp2,ENSDARG00000115477
-spi1a+spi1b,ENSDARG00000067797
-spi2+spic,ENSDARG00000087438
-srfa+srfb,ENSDARG00000102867
-stat5a+stat5b,ENSDARG00000055588
-stat5a+stat5b,ENSDARG00000113871
-stat6,ENSDARG00000115859
-tbr1a+tbr1b+tbx21,ENSDARG00000004712
-tbr1a+tbr1b+tbx21,ENSDARG00000076259
-tbr1a+tbr1b+tbx21,ENSDARG00000115643
-tbx16+tbx16l+tbx2a+tbx2b,ENSDARG00000006939
-tbx16+tbx16l+tbx2a+tbx2b,ENSDARG00000007329
-tbx16+tbx16l+tbx2a+tbx2b,ENSDARG00000018025
-tbx16+tbx16l+tbx2a+tbx2b,ENSDARG00000109541
-tbx16+tbx16l+tbx2a+tbx2b,ENSDARG00000116135
-tbx3a+tbx3b,ENSDARG00000061509
-tbx5a+tbx5b,ENSDARG00000092060
-tbxta+tbxtb,ENSDARG00000101576
-tcf21,ENSDARG00000111209
-tcf3a+tcf3b,ENSDARG00000099999
-tcf3a+tcf3b,ENSDARG00000112646
-tcf7l1a+tcf7l1b+tcf7l2,ENSDARG00000007369
-tcf7l1a+tcf7l1b+tcf7l2,ENSDARG00000038159
-tead3a+tead3b,ENSDARG00000074321
-tefa+tefb,ENSDARG00000098103
-tefa+tefb,ENSDARG00000109532
-tfap2a+tfap2c,ENSDARG00000059279
-tfcp2+tfcp2l1+ubp1,ENSDARG00000029497
-tfcp2+tfcp2l1+ubp1,ENSDARG00000060306
-tfdp1a+tfdp1b,ENSDARG00000019293
-tfdp1a+tfdp1b,ENSDARG00000111589
-tfe3a+tfe3b,ENSDARG00000098903
-tfe3a+tfe3b,ENSDARG00000111231
-thraa+thrab,ENSDARG00000052654
-tp53,ENSDARG00000115148
-tp63,ENSDARG00000113627
-twist1a+twist1b+twist3,ENSDARG00000030402
-twist1a+twist1b+twist3,ENSDARG00000076010
-wt1a+wt1b,ENSDARG00000031420
-yy1a+yy1b,ENSDARG00000042796
-zbtb12.1+zbtb12.2,ENSDARG00000103949
-zbtb16a+zbtb16b,ENSDARG00000074526
-zbtb18+zbtb42,ENSDARG00000102761
-zbtb47b+znf652,ENSDARG00000079547
-zbtb7a+zbtb7c,ENSDARG00000100985
-zeb1a+zeb1b,ENSDARG00000016788
-zeb1a+zeb1b,ENSDARG00000113922
-zic2a+zic2b,ENSDARG00000037178
-zic2a+zic2b,ENSDARG00000112354
-zic4+zic6,ENSDARG00000071496
-znf143b,ENSDARG00000111018
-znf143b,ENSDARG00000112408
-znf740a+znf740b,ENSDARG00000070939
-tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l,ENSDARG00000041691
-tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l,ENSDARG00000112123
-tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l,ENSDARG00000114358
-tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l,ENSDARG00000020228
-tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l,ENSDARG00000003732
-tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l,ENSDARG00000037833
-tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l,ENSDARG00000073988
-tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l,ENSDARG00000101859
-tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l,ENSDARG00000089107
-tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l,ENSDARG00000041689
-tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l,ENSDARG00000037891
-tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l,ENSDARG00000010794
-tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l,ENSDARG00000024844
-tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l,ENSDARG00000102856
-tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l,ENSDARG00000067607
-tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l,ENSDARG00000040884
-tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l,ENSDARG00000111950
-tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l,ENSDARG00000014463
-tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l,ENSDARG00000109684
-tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l,ENSDARG00000114279
-etv1_elf1_elk3_etv5a+etv5b_erf+erfl3_elk1_elk4_gabpa,ENSDARG00000020759
-etv1_elf1_elk3_etv5a+etv5b_erf+erfl3_elk1_elk4_gabpa,ENSDARG00000018688
-etv1_elf1_elk3_etv5a+etv5b_erf+erfl3_elk1_elk4_gabpa,ENSDARG00000110853
-etv1_elf1_elk3_etv5a+etv5b_erf+erfl3_elk1_elk4_gabpa,ENSDARG00000044511
-etv1_elf1_elk3_etv5a+etv5b_erf+erfl3_elk1_elk4_gabpa,ENSDARG00000069763
-etv1_elf1_elk3_etv5a+etv5b_erf+erfl3_elk1_elk4_gabpa,ENSDARG00000112509
-etv1_elf1_elk3_etv5a+etv5b_erf+erfl3_elk1_elk4_gabpa,ENSDARG00000113729
-etv1_elf1_elk3_etv5a+etv5b_erf+erfl3_elk1_elk4_gabpa,ENSDARG00000113744
-etv1_elf1_elk3_etv5a+etv5b_erf+erfl3_elk1_elk4_gabpa,ENSDARG00000062801
-etv1_elf1_elk3_etv5a+etv5b_erf+erfl3_elk1_elk4_gabpa,ENSDARG00000063417
-etv1_elf1_elk3_etv5a+etv5b_erf+erfl3_elk1_elk4_gabpa,ENSDARG00000078066
-etv1_elf1_elk3_etv5a+etv5b_erf+erfl3_elk1_elk4_gabpa,ENSDARG00000077092
-etv1_elf1_elk3_etv5a+etv5b_erf+erfl3_elk1_elk4_gabpa,ENSDARG00000069289
-etv1_elf1_elk3_etv5a+etv5b_erf+erfl3_elk1_elk4_gabpa,ENSDARG00000110923
-foxp1a+foxp1b+foxp3a_foxd1+foxd7_foxg1b+si:rp71-45k5.2_foxo1a+foxo1b_foxp2,ENSDARG00000014181
-foxp1a+foxp1b+foxp3a_foxd1+foxd7_foxg1b+si:rp71-45k5.2_foxo1a+foxo1b_foxp2,ENSDARG00000055750
-foxp1a+foxp1b+foxp3a_foxd1+foxd7_foxg1b+si:rp71-45k5.2_foxo1a+foxo1b_foxp2,ENSDARG00000029179
-foxp1a+foxp1b+foxp3a_foxd1+foxd7_foxg1b+si:rp71-45k5.2_foxo1a+foxo1b_foxp2,ENSDARG00000079699
-foxp1a+foxp1b+foxp3a_foxd1+foxd7_foxg1b+si:rp71-45k5.2_foxo1a+foxo1b_foxp2,ENSDARG00000032705
-foxp1a+foxp1b+foxp3a_foxd1+foxd7_foxg1b+si:rp71-45k5.2_foxo1a+foxo1b_foxp2,ENSDARG00000093129
-foxp1a+foxp1b+foxp3a_foxd1+foxd7_foxg1b+si:rp71-45k5.2_foxo1a+foxo1b_foxp2,ENSDARG00000061549
-foxp1a+foxp1b+foxp3a_foxd1+foxd7_foxg1b+si:rp71-45k5.2_foxo1a+foxo1b_foxp2,ENSDARG00000099555
-foxp1a+foxp1b+foxp3a_foxd1+foxd7_foxg1b+si:rp71-45k5.2_foxo1a+foxo1b_foxp2,ENSDARG00000005453
-shox2_uncx4.1_lhx2a_vsx1_shox,ENSDARG00000037760
-shox2_uncx4.1_lhx2a_vsx1_shox,ENSDARG00000037964
-shox2_uncx4.1_lhx2a_vsx1_shox,ENSDARG00000056292
-shox2_uncx4.1_lhx2a_vsx1_shox,ENSDARG00000109766
-shox2_uncx4.1_lhx2a_vsx1_shox,ENSDARG00000025891
-creb5a+creb5b_jdp2b_atf7a+atf7b_june,ENSDARG00000099002
-creb5a+creb5b_jdp2b_atf7a+atf7b_june,ENSDARG00000020133
-creb5a+creb5b_jdp2b_atf7a+atf7b_june,ENSDARG00000011298
-creb5a+creb5b_jdp2b_atf7a+atf7b_june,ENSDARG00000055481
-creb5a+creb5b_jdp2b_atf7a+atf7b_june,ENSDARG00000114492
-creb5a+creb5b_jdp2b_atf7a+atf7b_june,ENSDARG00000115171
-creb5a+creb5b_jdp2b_atf7a+atf7b_june,ENSDARG00000104090
-fosl2_bach1a+bach1b+bach2a+bach2b_gatad2ab+jun_smarcc1a+smarcc1b,ENSDARG00000002196
-fosl2_bach1a+bach1b+bach2a+bach2b_gatad2ab+jun_smarcc1a+smarcc1b,ENSDARG00000004074
-fosl2_bach1a+bach1b+bach2a+bach2b_gatad2ab+jun_smarcc1a+smarcc1b,ENSDARG00000036569
-fosl2_bach1a+bach1b+bach2a+bach2b_gatad2ab+jun_smarcc1a+smarcc1b,ENSDARG00000062553
-fosl2_bach1a+bach1b+bach2a+bach2b_gatad2ab+jun_smarcc1a+smarcc1b,ENSDARG00000006192
-fosl2_bach1a+bach1b+bach2a+bach2b_gatad2ab+jun_smarcc1a+smarcc1b,ENSDARG00000043531
-fosl2_bach1a+bach1b+bach2a+bach2b_gatad2ab+jun_smarcc1a+smarcc1b,ENSDARG00000017397
-fosl2_bach1a+bach1b+bach2a+bach2b_gatad2ab+jun_smarcc1a+smarcc1b,ENSDARG00000098919
-bhlhe22_neurod2_bhlhe23+si:ch211-196c10.13_bhlha15,ENSDARG00000016854
-bhlhe22_neurod2_bhlhe23+si:ch211-196c10.13_bhlha15,ENSDARG00000037588
-bhlhe22_neurod2_bhlhe23+si:ch211-196c10.13_bhlha15,ENSDARG00000096756
-bhlhe22_neurod2_bhlhe23+si:ch211-196c10.13_bhlha15,ENSDARG00000045166
-gbx1_en1b_emx1_en2a+en2b,ENSDARG00000098730
-gbx1_en1b_emx1_en2a+en2b,ENSDARG00000039569
-gbx1_en1b_emx1_en2a+en2b,ENSDARG00000026599
-gbx1_en1b_emx1_en2a+en2b,ENSDARG00000038868
-gbx1_en1b_emx1_en2a+en2b,ENSDARG00000115233
-rsl1d1+sp3a_sp4_klf4_sp8a+sp8b,ENSDARG00000005846
-rsl1d1+sp3a_sp4_klf4_sp8a+sp8b,ENSDARG00000005186
-rsl1d1+sp3a_sp4_klf4_sp8a+sp8b,ENSDARG00000079922
-rsl1d1+sp3a_sp4_klf4_sp8a+sp8b,ENSDARG00000011870
-rsl1d1+sp3a_sp4_klf4_sp8a+sp8b,ENSDARG00000056666
-tbx1_tbx4_mgaa_si:ch211-69l10.4+tbx15,ENSDARG00000030058
-tbx1_tbx4_mgaa_si:ch211-69l10.4+tbx15,ENSDARG00000113067
-tbx1_tbx4_mgaa_si:ch211-69l10.4+tbx15,ENSDARG00000078784
-tbx1_tbx4_mgaa_si:ch211-69l10.4+tbx15,ENSDARG00000002582
-tbx1_tbx4_mgaa_si:ch211-69l10.4+tbx15,ENSDARG00000098036
-FO834857.1_pknox1.1+pknox1.2_meis2a+meis2b,ENSDARG00000018765
-FO834857.1_pknox1.1+pknox1.2_meis2a+meis2b,ENSDARG00000036542
-FO834857.1_pknox1.1+pknox1.2_meis2a+meis2b,ENSDARG00000077840
-FO834857.1_pknox1.1+pknox1.2_meis2a+meis2b,ENSDARG00000098240
-mespaa+mespab+mespba+mespbb_id4_TCF4,ENSDARG00000030347
-mespaa+mespab+mespba+mespbb_id4_TCF4,ENSDARG00000068761
-mespaa+mespab+mespba+mespbb_id4_TCF4,ENSDARG00000097947
-mespaa+mespab+mespba+mespbb_id4_TCF4,ENSDARG00000110553
-mespaa+mespab+mespba+mespbb_id4_TCF4,ENSDARG00000114890
-mespaa+mespab+mespba+mespbb_id4_TCF4,ENSDARG00000045131
-mespaa+mespab+mespba+mespbb_id4_TCF4,ENSDARG00000107408
-atf1_atf3_atf2,ENSDARG00000109865
-atf1_atf3_atf2,ENSDARG00000007823
-atf1_atf3_atf2,ENSDARG00000023903
-etv2_erg_fev+fli1a,ENSDARG00000077304
-etv2_erg_fev+fli1a,ENSDARG00000009242
-etv2_erg_fev+fli1a,ENSDARG00000054632
-esrrb_esrra+esrrgb_esrrd+esrrga,ENSDARG00000011696
-esrrb_esrra+esrrgb_esrrd+esrrga,ENSDARG00000069266
-esrrb_esrra+esrrgb_esrrd+esrrga,ENSDARG00000004861
-esrrb_esrra+esrrgb_esrrd+esrrga,ENSDARG00000015064
-fosaa+fosab+fosl1a_nfya_nfyal,ENSDARG00000031683
-fosaa+fosab+fosl1a_nfya_nfyal,ENSDARG00000040135
-fosaa+fosab+fosl1a_nfya_nfyal,ENSDARG00000042004
-fosaa+fosab+fosl1a_nfya_nfyal,ENSDARG00000114231
-fosaa+fosab+fosl1a_nfya_nfyal,ENSDARG00000001621
-foxa_foxa2_foxa1,ENSDARG00000110743
-foxa_foxa2_foxa1,ENSDARG00000115019
-foxa_foxa2_foxa1,ENSDARG00000003411
-foxa_foxa2_foxa1,ENSDARG00000102138
-olig2+olig4_olig1_olig3,ENSDARG00000052610
-olig2+olig4_olig1_olig3,ENSDARG00000116678
-olig2+olig4_olig1_olig3,ENSDARG00000040948
-olig2+olig4_olig1_olig3,ENSDARG00000074253
-rfx2+rfx4_rfx3_rfx1a,ENSDARG00000026395
-rfx2+rfx4_rfx3_rfx1a,ENSDARG00000116861
-rfx2+rfx4_rfx3_rfx1a,ENSDARG00000014550
-rfx2+rfx4_rfx3_rfx1a,ENSDARG00000005883
-six1b_six3a+six3b+six7_six1a+six2a+six2b+six5+six9,ENSDARG00000054879
-six1b_six3a+six3b+six7_six1a+six2a+six2b+six5+six9,ENSDARG00000058008
-six1b_six3a+six3b+six7_six1a+six2a+six2b+six5+six9,ENSDARG00000070107
-six1b_six3a+six3b+six7_six1a+six2a+six2b+six5+six9,ENSDARG00000114971
-six1b_six3a+six3b+six7_six1a+six2a+six2b+six5+six9,ENSDARG00000039304
-six1b_six3a+six3b+six7_six1a+six2a+six2b+six5+six9,ENSDARG00000054878
-six1b_six3a+six3b+six7_six1a+six2a+six2b+six5+six9,ENSDARG00000058004
-six1b_six3a+six3b+six7_six1a+six2a+six2b+six5+six9,ENSDARG00000068406
-six1b_six3a+six3b+six7_six1a+six2a+six2b+six5+six9,ENSDARG00000068407
-six1b_six3a+six3b+six7_six1a+six2a+six2b+six5+six9,ENSDARG00000115214
-smad1_smad10a+smad4a_smad2,ENSDARG00000112617
-smad1_smad10a+smad4a_smad2,ENSDARG00000115674
-smad1_smad10a+smad4a_smad2,ENSDARG00000045094
-smad1_smad10a+smad4a_smad2,ENSDARG00000070428
-smad1_smad10a+smad4a_smad2,ENSDARG00000075226
-smad1_smad10a+smad4a_smad2,ENSDARG00000006389
-tead1b_CT573494.3+tead1a,ENSDARG00000028159
-tead1b_CT573494.3+tead1a,ENSDARG00000113336
-vdrb_VDR+nr1i2,ENSDARG00000114864
-vdrb_VDR+nr1i2,ENSDARG00000029766
-vdrb_VDR+nr1i2,ENSDARG00000112923
-ar_nr3c1,ENSDARG00000114287
-ar_nr3c1,ENSDARG00000025032
-ar_nr3c1,ENSDARG00000112480
-ar_nr3c1,ENSDARG00000116957
-drgx_arxb,ENSDARG00000101523
-jund_batf,ENSDARG00000011818
-dlx4a+dlx4b+dlx6a_dlx2a+dlx2b,ENSDARG00000042291
-dlx4a+dlx4b+dlx6a_dlx2a+dlx2b,ENSDARG00000071560
-dlx4a+dlx4b+dlx6a_dlx2a+dlx2b,ENSDARG00000017174
-dlx4a+dlx4b+dlx6a_dlx2a+dlx2b,ENSDARG00000079964
-dlx4a+dlx4b+dlx6a_dlx2a+dlx2b,ENSDARG00000116017
-e2f7_e2f1,ENSDARG00000103868
-e2f2_e2f5,ENSDARG00000038812
-foxd5_foxd2,ENSDARG00000109712
-foxd5_foxd2,ENSDARG00000058133
-foxk1_foxj3+si:dkey-68o6.6,ENSDARG00000075774
-foxk1_foxj3+si:dkey-68o6.6,ENSDARG00000104350
-her12+her15.1+her15.2+her2+her4.1+her4.2+her4.3+her4.4_her1+her11+her5,ENSDARG00000032963
-her12+her15.1+her15.2+her2+her4.1+her4.2+her4.3+her4.4_her1+her11+her5,ENSDARG00000038205
-her12+her15.1+her15.2+her2+her4.1+her4.2+her4.3+her4.4_her1+her11+her5,ENSDARG00000054560
-her12+her15.1+her15.2+her2+her4.1+her4.2+her4.3+her4.4_her1+her11+her5,ENSDARG00000054562
-her12+her15.1+her15.2+her2+her4.1+her4.2+her4.3+her4.4_her1+her11+her5,ENSDARG00000056729
-her12+her15.1+her15.2+her2+her4.1+her4.2+her4.3+her4.4_her1+her11+her5,ENSDARG00000056732
-her12+her15.1+her15.2+her2+her4.1+her4.2+her4.3+her4.4_her1+her11+her5,ENSDARG00000070770
-her12+her15.1+her15.2+her2+her4.1+her4.2+her4.3+her4.4_her1+her11+her5,ENSDARG00000094426
-her12+her15.1+her15.2+her2+her4.1+her4.2+her4.3+her4.4_her1+her11+her5,ENSDARG00000002707
-her12+her15.1+her15.2+her2+her4.1+her4.2+her4.3+her4.4_her1+her11+her5,ENSDARG00000008796
-her12+her15.1+her15.2+her2+her4.1+her4.2+her4.3+her4.4_her1+her11+her5,ENSDARG00000014722
-hey2_hey1+heyl,ENSDARG00000055798
-hey2_hey1+heyl,ENSDARG00000070538
-hey2_hey1+heyl,ENSDARG00000112770
-hmx2_hmx3a,ENSDARG00000115364
-hmx2_hmx3a,ENSDARG00000070955
-hmx2_hmx3a,ENSDARG00000115051
-irx3a+irx3b_irx5a+irx5b,ENSDARG00000101076
-irx3a+irx3b_irx5a+irx5b,ENSDARG00000034043
-irx3a+irx3b_irx5a+irx5b,ENSDARG00000074070
-lmx1al_lmx1ba+lmx1bb,ENSDARG00000068365
-lmx1al_lmx1ba+lmx1bb,ENSDARG00000104815
-mybl2a_myb,ENSDARG00000053666
-mybl2a_myb,ENSDARG00000114024
-nfe2+nfe2l1a_nfe2l2a,ENSDARG00000030616
-nfe2+nfe2l1a_nfe2l2a,ENSDARG00000116760
-nfe2+nfe2l1a_nfe2l2a,ENSDARG00000042824
-nfkb1_rela,ENSDARG00000098696
-otx2a_otx1,ENSDARG00000094992
-pax1a+pax1b_pax9,ENSDARG00000073814
-pax1a+pax1b_pax9,ENSDARG00000053829
-pdx1_pbx4,ENSDARG00000109275
-pdx1_pbx4,ENSDARG00000052150
-pou4f1+pou4f4_pou4f3,ENSDARG00000044375
-pou4f1+pou4f4_pou4f3,ENSDARG00000111929
-pou4f1+pou4f4_pou4f3,ENSDARG00000006206
-rargb_pparab,ENSDARG00000054323
-si:dkey-149i17.7_zic1,ENSDARG00000015567
-stat1b+stat2-2_stat1a+stat2-1,ENSDARG00000116348
-stat1b+stat2-2_stat1a+stat2-1,ENSDARG00000006266
-stat1b+stat2-2_stat1a+stat2-1,ENSDARG00000031647
+AL807792.3+atoh1a+atoh1b+atoh1c+bloc1s2 AL807792.3
+AL807792.3+atoh1a+atoh1b+atoh1c+bloc1s2 atoh1a
+AL807792.3+atoh1a+atoh1b+atoh1c+bloc1s2 atoh1b
+AL807792.3+atoh1a+atoh1b+atoh1c+bloc1s2 atoh1c
+AL807792.3+atoh1a+atoh1b+atoh1c+bloc1s2 bloc1s2
+alx1 alx1
+alx4a+alx4b alx4a
+alx4a+alx4b alx4b
+arid3a+arid3b+arid3c arid3a
+arid3a+arid3b+arid3c arid3b
+arid3a+arid3b+arid3c arid3c
+arid5a+arid6+zgc:77151 arid5a
+arid5a+arid6+zgc:77151 arid6
+arid5a+arid6+zgc:77151 zgc:77151:zgc
+arid5b arid5b
+ar_nr3c1 ar
+ar_nr3c1 nr3c1
+arnt2 arnt2
+arnt arnt
+arntl1a+arntl1b arntl1a
+arntl1a+arntl1b arntl1b
+arxa arxa
+atf1_atf3_atf2 atf1
+atf1_atf3_atf2 atf2
+atf1_atf3_atf2 atf3
+atf4a+atf4b atf4a
+atf4a+atf4b atf4b
+atf5a+atf5b atf5a
+atf5a+atf5b atf5b
+barhl1a+barhl1b barhl1a
+barhl1a+barhl1b barhl1b
+barhl2 barhl2
+barx1 barx1
+barx2 barx2
+batf2+batf3 batf2
+batf2+batf3 batf3
+bbx bbx
+bcl11aa+znf296 bcl11aa
+bcl11aa+znf296 znf296
+bcl6aa+bcl6ab+bcl6b bcl6aa
+bcl6aa+bcl6ab+bcl6b bcl6ab
+bcl6aa+bcl6ab+bcl6b bcl6b
+bhlhe22_neurod2_bhlhe23+si:ch211-196c10.13_bhlha15 bhlha15
+bhlhe22_neurod2_bhlhe23+si:ch211-196c10.13_bhlha15 bhlhe22
+bhlhe22_neurod2_bhlhe23+si:ch211-196c10.13_bhlha15 bhlhe23
+bhlhe22_neurod2_bhlhe23+si:ch211-196c10.13_bhlha15 neurod2
+bhlhe22_neurod2_bhlhe23+si:ch211-196c10.13_bhlha15 si:ch211-196c10.13
+bhlhe40 bhlhe40
+bsx+nanog bsx
+bsx+nanog nanog
+BX548005.1+smarcc2 BX548005.1
+BX548005.1+smarcc2 smarcc2
+BX548076.1+CR388055.1+cuedc1b+med22+si:dkey-56d12.4+zfhx3+zfhx3a+zfhx4 BX548076.1
+BX548076.1+CR388055.1+cuedc1b+med22+si:dkey-56d12.4+zfhx3+zfhx3a+zfhx4 CR388055.1
+BX548076.1+CR388055.1+cuedc1b+med22+si:dkey-56d12.4+zfhx3+zfhx3a+zfhx4 cuedc1b
+BX548076.1+CR388055.1+cuedc1b+med22+si:dkey-56d12.4+zfhx3+zfhx3a+zfhx4 med22
+BX548076.1+CR388055.1+cuedc1b+med22+si:dkey-56d12.4+zfhx3+zfhx3a+zfhx4 si:dkey-56d12.4
+BX548076.1+CR388055.1+cuedc1b+med22+si:dkey-56d12.4+zfhx3+zfhx3a+zfhx4 zfhx3
+BX548076.1+CR388055.1+cuedc1b+med22+si:dkey-56d12.4+zfhx3+zfhx3a+zfhx4 zfhx3a
+BX548076.1+CR388055.1+cuedc1b+med22+si:dkey-56d12.4+zfhx3+zfhx3a+zfhx4 zfhx4
+BX572630.1+relb BX572630.1
+BX572630.1+relb relb
+CABZ01066694.1 CABZ01066694.1
+CABZ01079241.1+zfx+znf711 CABZ01079241.1
+CABZ01079241.1+zfx+znf711 zfx
+CABZ01079241.1+zfx+znf711 znf711
+CABZ01080371.1+pou2f1b CABZ01080371.1
+CABZ01080371.1+pou2f1b pou2f1b
+CABZ01087224.1+hlfb CABZ01087224.1
+CABZ01087224.1+hlfb hlfb
+CABZ01090890.1+atf6 atf6
+CABZ01090890.1+atf6 CABZ01090890.1
+CABZ01093502.2 CABZ01093502.2
+cdc5l cdc5l
+cdx1a+cdx1b+ved cdx1a
+cdx1a+cdx1b+ved cdx1b
+cdx1a+cdx1b+ved ved
+cebp1 cebp1
+cebpa cebpa
+cebpb cebpb
+cebpd cebpd
+cebpg cebpg
+cers4a+hoxb13a cers4a
+cers4a+hoxb13a hoxb13a
+clocka+clockb+npas2 clocka
+clocka+clockb+npas2 clockb
+clocka+clockb+npas2 npas2
+CR354582.1 CR354582.1
+creb1a+creb1b+crema+cremb creb1a
+creb1a+creb1b+crema+cremb creb1b
+creb1a+creb1b+crema+cremb crema
+creb1a+creb1b+crema+cremb cremb
+creb3l1 creb3l1
+creb3l2 creb3l2
+creb5a+creb5b_jdp2b_atf7a+atf7b_june atf7a
+creb5a+creb5b_jdp2b_atf7a+atf7b_june atf7b
+creb5a+creb5b_jdp2b_atf7a+atf7b_june creb5a
+creb5a+creb5b_jdp2b_atf7a+atf7b_june creb5b
+creb5a+creb5b_jdp2b_atf7a+atf7b_june jdp2b
+creb5a+creb5b_jdp2b_atf7a+atf7b_june june
+crx+otx5 crx
+crx+otx5 otx5
+CT027745.1+tbx19 CT027745.1
+CT027745.1+tbx19 tbx19
+ctcf ctcf
+cux1a cux1a
+cux2b cux2b
+cxxc1a+cxxc1b+mbd1a+mbd1b cxxc1a
+cxxc1a+cxxc1b+mbd1a+mbd1b cxxc1b
+cxxc1a+cxxc1b+mbd1a+mbd1b mbd1a
+cxxc1a+cxxc1b+mbd1a+mbd1b mbd1b
+dbpa+dbpb+hlfa dbpa
+dbpa+dbpb+hlfa dbpb
+dbpa+dbpb+hlfa hlfa
+ddit3 ddit3
+ddx28+nfatc1+nfatc2b+nfatc3a+nfatc3b+nfatc4 ddx28
+ddx28+nfatc1+nfatc2b+nfatc3a+nfatc3b+nfatc4 nfatc1
+ddx28+nfatc1+nfatc2b+nfatc3a+nfatc3b+nfatc4 nfatc2b
+ddx28+nfatc1+nfatc2b+nfatc3a+nfatc3b+nfatc4 nfatc3a
+ddx28+nfatc1+nfatc2b+nfatc3a+nfatc3b+nfatc4 nfatc3b
+ddx28+nfatc1+nfatc2b+nfatc3a+nfatc3b+nfatc4 nfatc4
+dharma dharma
+dlx1a dlx1a
+dlx3b dlx3b
+dlx4a+dlx4b+dlx6a_dlx2a+dlx2b dlx2a
+dlx4a+dlx4b+dlx6a_dlx2a+dlx2b dlx2b
+dlx4a+dlx4b+dlx6a_dlx2a+dlx2b dlx4a
+dlx4a+dlx4b+dlx6a_dlx2a+dlx2b dlx4b
+dlx4a+dlx4b+dlx6a_dlx2a+dlx2b dlx6a
+dlx5a dlx5a
+dmbx1a+dmbx1b dmbx1a
+dmbx1a+dmbx1b dmbx1b
+drgx_arxb arxb
+drgx_arxb drgx
+e2f2_e2f5 e2f2
+e2f2_e2f5 e2f5
+e2f3 e2f3
+e2f4 e2f4
+e2f6 e2f6
+e2f7_e2f1 e2f1
+e2f7_e2f1 e2f7
+e2f8 e2f8
+e4f1+si:dkeyp-79b7.12 e4f1
+e4f1+si:dkeyp-79b7.12 si:dkeyp-79b7.12
+ebf1b ebf1b
+ebf3a-1+si:ch211-51e8.2 ebf3a-1
+ebf3a-1+si:ch211-51e8.2 si:ch211-51e8.2
+ebf3a-2+ebf3b ebf3a-2
+ebf3a-2+ebf3b ebf3b
+egr1 egr1
+egr2a+egr2b egr2a
+egr2a+egr2b egr2b
+egr3 egr3
+egr4 egr4
+ehf ehf
+elf2a+elf2b elf2a
+elf2a+elf2b elf2b
+elf3 elf3
+emx2+emx3 emx2
+emx2+emx3 emx3
+en1a en1a
+eomesa+eomesb eomesa
+eomesa+eomesb eomesb
+esr1+esr2a+esr2b esr1
+esr1+esr2a+esr2b esr2a
+esr1+esr2a+esr2b esr2b
+esrrb_esrra+esrrgb_esrrd+esrrga esrra
+esrrb_esrra+esrrgb_esrrd+esrrga esrrb
+esrrb_esrra+esrrgb_esrrd+esrrga esrrd
+esrrb_esrra+esrrgb_esrrd+esrrga esrrga
+esrrb_esrra+esrrgb_esrrd+esrrga esrrgb
+ets2 ets2
+etv1_elf1_elk3_etv5a+etv5b_erf+erfl3_elk1_elk4_gabpa elf1
+etv1_elf1_elk3_etv5a+etv5b_erf+erfl3_elk1_elk4_gabpa elk1
+etv1_elf1_elk3_etv5a+etv5b_erf+erfl3_elk1_elk4_gabpa elk3
+etv1_elf1_elk3_etv5a+etv5b_erf+erfl3_elk1_elk4_gabpa elk4
+etv1_elf1_elk3_etv5a+etv5b_erf+erfl3_elk1_elk4_gabpa erf
+etv1_elf1_elk3_etv5a+etv5b_erf+erfl3_elk1_elk4_gabpa erfl3
+etv1_elf1_elk3_etv5a+etv5b_erf+erfl3_elk1_elk4_gabpa etv1
+etv1_elf1_elk3_etv5a+etv5b_erf+erfl3_elk1_elk4_gabpa etv5a
+etv1_elf1_elk3_etv5a+etv5b_erf+erfl3_elk1_elk4_gabpa etv5b
+etv1_elf1_elk3_etv5a+etv5b_erf+erfl3_elk1_elk4_gabpa gabpa
+etv2_erg_fev+fli1a erg
+etv2_erg_fev+fli1a etv2
+etv2_erg_fev+fli1a fev
+etv2_erg_fev+fli1a fli1a
+etv4 etv4
+etv7 etv7
+eve1+evx1 eve1
+eve1+evx1 evx1
+evx2 evx2
+figla figla
+fli1b fli1b
+FO834857.1_pknox1.1+pknox1.2_meis2a+meis2b FO834857.1
+FO834857.1_pknox1.1+pknox1.2_meis2a+meis2b meis2a
+FO834857.1_pknox1.1+pknox1.2_meis2a+meis2b meis2b
+FO834857.1_pknox1.1+pknox1.2_meis2a+meis2b pknox1.1
+FO834857.1_pknox1.1+pknox1.2_meis2a+meis2b pknox1.2
+fosaa+fosab+fosl1a_nfya_nfyal fosaa
+fosaa+fosab+fosl1a_nfya_nfyal fosab
+fosaa+fosab+fosl1a_nfya_nfyal fosl1a
+fosaa+fosab+fosl1a_nfya_nfyal nfya
+fosaa+fosab+fosl1a_nfya_nfyal nfyal
+fosb+ttf1.6 fosb
+fosb+ttf1.6 ttf1.6
+fosl1b+jdp2a fosl1b
+fosl1b+jdp2a jdp2a
+fosl2_bach1a+bach1b+bach2a+bach2b_gatad2ab+jun_smarcc1a+smarcc1b bach1a
+fosl2_bach1a+bach1b+bach2a+bach2b_gatad2ab+jun_smarcc1a+smarcc1b bach1b
+fosl2_bach1a+bach1b+bach2a+bach2b_gatad2ab+jun_smarcc1a+smarcc1b bach2a
+fosl2_bach1a+bach1b+bach2a+bach2b_gatad2ab+jun_smarcc1a+smarcc1b bach2b
+fosl2_bach1a+bach1b+bach2a+bach2b_gatad2ab+jun_smarcc1a+smarcc1b fosl2
+fosl2_bach1a+bach1b+bach2a+bach2b_gatad2ab+jun_smarcc1a+smarcc1b gatad2ab
+fosl2_bach1a+bach1b+bach2a+bach2b_gatad2ab+jun_smarcc1a+smarcc1b jun
+fosl2_bach1a+bach1b+bach2a+bach2b_gatad2ab+jun_smarcc1a+smarcc1b smarcc1a
+fosl2_bach1a+bach1b+bach2a+bach2b_gatad2ab+jun_smarcc1a+smarcc1b smarcc1b
+fosl2l fosl2l
+foxa3 foxa3
+foxa_foxa2_foxa1 foxa
+foxa_foxa2_foxa1 foxa1
+foxa_foxa2_foxa1 foxa2
+foxb1a foxb1a
+foxb1b+foxb2 foxb1b
+foxb1b+foxb2 foxb2
+foxc1a+foxc1b foxc1a
+foxc1a+foxc1b foxc1b
+foxd3 foxd3
+foxd5_foxd2 foxd2
+foxd5_foxd2 foxd5
+foxf1+foxf2a+foxf2b foxf1
+foxf1+foxf2a+foxf2b foxf2a
+foxf1+foxf2a+foxf2b foxf2b
+foxg1a+foxg1c+foxg1d+zgc:113424 foxg1a
+foxg1a+foxg1c+foxg1d+zgc:113424 foxg1c
+foxg1a+foxg1c+foxg1d+zgc:113424 foxg1d
+foxg1a+foxg1c+foxg1d+zgc:113424 zgc:113424:zgc
+foxh1+foxq1a+foxq1b+imp3 foxh1
+foxh1+foxq1a+foxq1b+imp3 foxq1a
+foxh1+foxq1a+foxq1b+imp3 foxq1b
+foxh1+foxq1a+foxq1b+imp3 imp3
+foxi1+foxi2+foxi3a+foxi3b foxi1
+foxi1+foxi2+foxi3a+foxi3b foxi2
+foxi1+foxi2+foxi3a+foxi3b foxi3a
+foxi1+foxi2+foxi3a+foxi3b foxi3b
+foxj1a+foxj1b foxj1a
+foxj1a+foxj1b foxj1b
+foxj2 foxj2
+foxk1_foxj3+si:dkey-68o6.6 foxj3
+foxk1_foxj3+si:dkey-68o6.6 foxk1
+foxk1_foxj3+si:dkey-68o6.6 si:dkey-68o6.6
+foxl1 foxl1
+foxm1 foxm1
+foxn1 foxn1
+foxo3a foxo3a
+foxo3b+foxo6a+foxo6b foxo3b
+foxo3b+foxo6a+foxo6b foxo6a
+foxo3b+foxo6a+foxo6b foxo6b
+foxo4 foxo4
+foxp1a+foxp1b+foxp3a_foxd1+foxd7_foxg1b+si:rp71-45k5.2_foxo1a+foxo1b_foxp2 foxd1
+foxp1a+foxp1b+foxp3a_foxd1+foxd7_foxg1b+si:rp71-45k5.2_foxo1a+foxo1b_foxp2 foxd7:zgc
+foxp1a+foxp1b+foxp3a_foxd1+foxd7_foxg1b+si:rp71-45k5.2_foxo1a+foxo1b_foxp2 foxg1b
+foxp1a+foxp1b+foxp3a_foxd1+foxd7_foxg1b+si:rp71-45k5.2_foxo1a+foxo1b_foxp2 foxo1a
+foxp1a+foxp1b+foxp3a_foxd1+foxd7_foxg1b+si:rp71-45k5.2_foxo1a+foxo1b_foxp2 foxo1b
+foxp1a+foxp1b+foxp3a_foxd1+foxd7_foxg1b+si:rp71-45k5.2_foxo1a+foxo1b_foxp2 foxp1a
+foxp1a+foxp1b+foxp3a_foxd1+foxd7_foxg1b+si:rp71-45k5.2_foxo1a+foxo1b_foxp2 foxp1b
+foxp1a+foxp1b+foxp3a_foxd1+foxd7_foxg1b+si:rp71-45k5.2_foxo1a+foxo1b_foxp2 foxp2
+foxp1a+foxp1b+foxp3a_foxd1+foxd7_foxg1b+si:rp71-45k5.2_foxo1a+foxo1b_foxp2 foxp3a
+foxp1a+foxp1b+foxp3a_foxd1+foxd7_foxg1b+si:rp71-45k5.2_foxo1a+foxo1b_foxp2 si:rp71-45k5.2
+foxq2 foxq2
+gata1a+gata2b gata1a
+gata1a+gata2b gata2b
+gata1b+gata2a gata1b
+gata1b+gata2a gata2a
+gata3 gata3
+gata4 gata4
+gata5 gata5
+gata6 gata6
+gbx1_en1b_emx1_en2a+en2b emx1
+gbx1_en1b_emx1_en2a+en2b en1b
+gbx1_en1b_emx1_en2a+en2b en2a
+gbx1_en1b_emx1_en2a+en2b en2b
+gbx1_en1b_emx1_en2a+en2b gbx1
+gbx2 gbx2
+gcm2 gcm2
+gfi1aa+gfi1ab gfi1aa
+gfi1aa+gfi1ab gfi1ab
+gfi1b gfi1b
+gli1+gli2b gli1
+gli1+gli2b gli2b
+gli2a+gli3 gli2a
+gli2a+gli3 gli3
+glis1a+glis1b glis1a
+glis1a+glis1b glis1b
+glis2a+glis2b glis2a
+glis2a+glis2b glis2b
+glis3 glis3
+gmeb1 gmeb1
+gmeb2 gmeb2
+grhl1 grhl1
+gsc gsc
+gsx1 gsx1
+gsx2+pnx gsx2
+gsx2+pnx pnx
+hap1 hap1
+hbp1 hbp1
+hdx hdx
+her12+her15.1+her15.2+her2+her4.1+her4.2+her4.3+her4.4_her1+her11+her5 her1
+her12+her15.1+her15.2+her2+her4.1+her4.2+her4.3+her4.4_her1+her11+her5 her11
+her12+her15.1+her15.2+her2+her4.1+her4.2+her4.3+her4.4_her1+her11+her5 her12
+her12+her15.1+her15.2+her2+her4.1+her4.2+her4.3+her4.4_her1+her11+her5 her15.1
+her12+her15.1+her15.2+her2+her4.1+her4.2+her4.3+her4.4_her1+her11+her5 her15.2
+her12+her15.1+her15.2+her2+her4.1+her4.2+her4.3+her4.4_her1+her11+her5 her2
+her12+her15.1+her15.2+her2+her4.1+her4.2+her4.3+her4.4_her1+her11+her5 her4.1
+her12+her15.1+her15.2+her2+her4.1+her4.2+her4.3+her4.4_her1+her11+her5 her4.2
+her12+her15.1+her15.2+her2+her4.1+her4.2+her4.3+her4.4_her1+her11+her5 her4.3
+her12+her15.1+her15.2+her2+her4.1+her4.2+her4.3+her4.4_her1+her11+her5 her4.4
+her12+her15.1+her15.2+her2+her4.1+her4.2+her4.3+her4.4_her1+her11+her5 her5
+her6+her8.2+her9 her6
+her6+her8.2+her9 her8.2
+her6+her8.2+her9 her9
+hey2_hey1+heyl hey1
+hey2_hey1+heyl hey2
+hey2_hey1+heyl heyl
+hic1 hic1
+hic1l+hic2 hic1l
+hic1l+hic2 hic2
+hinfp hinfp
+hivep1 hivep1
+hlx1 hlx1
+hmbox1a+zgc:91944 hmbox1a
+hmbox1a+zgc:91944 zgc:91944:zgc
+hmga1a hmga1a
+hmx1+hmx3b hmx1
+hmx1+hmx3b hmx3b
+hmx2_hmx3a hmx2
+hmx2_hmx3a hmx3a
+hmx4 hmx4
+hnf1a hnf1a
+hnf1ba+hnf1bb hnf1ba
+hnf1ba+hnf1bb hnf1bb
+hnf4a+hnf4b hnf4a
+hnf4a+hnf4b hnf4b
+hnf4g hnf4g
+homeza+homezb+pgm3 homeza
+homeza+homezb+pgm3 homezb
+homeza+homezb+pgm3 pgm3
+hoxa10b hoxa10b
+hoxa11a hoxa11a
+hoxa11b hoxa11b
+hoxa13a+hoxa13b hoxa13a
+hoxa13a+hoxa13b hoxa13b
+hoxa1a+hoxb1b-1+hoxc1a hoxa1a
+hoxa1a+hoxb1b-1+hoxc1a hoxb1b-1
+hoxa1a+hoxb1b-1+hoxc1a hoxc1a
+hoxa2b hoxa2b
+hoxa4a+hoxc3a hoxa4a
+hoxa4a+hoxc3a hoxc3a
+hoxa5a hoxa5a
+hoxa9a+hoxa9b hoxa9a
+hoxa9a+hoxa9b hoxa9b
+hoxb10a+hoxc10a hoxb10a
+hoxb10a+hoxc10a hoxc10a
+hoxb1a+hoxb1b-2 hoxb1a
+hoxb1a+hoxb1b-2 hoxb1b-2
+hoxb2a hoxb2a
+hoxb3a hoxb3a
+hoxb4a hoxb4a
+hoxb5a+hoxb5b hoxb5a
+hoxb5a+hoxb5b hoxb5b
+hoxb6a+hoxb6b hoxb6a
+hoxb6a+hoxb6b hoxb6b
+hoxb7a hoxb7a
+hoxb8a+hoxb8b hoxb8a
+hoxb8a+hoxb8b hoxb8b
+hoxb9a hoxb9a
+hoxc11a hoxc11a
+hoxc11b hoxc11b
+hoxc12a+hoxc12b hoxc12a
+hoxc12a+hoxc12b hoxc12b
+hoxc13a hoxc13a
+hoxc13b+hoxd13a hoxc13b
+hoxc13b+hoxd13a hoxd13a
+hoxc4a hoxc4a
+hoxc5a hoxc5a
+hoxc6a+hoxc6b hoxc6a
+hoxc6a+hoxc6b hoxc6b
+hoxc8a hoxc8a
+hoxc9a hoxc9a
+hoxd10a hoxd10a
+hoxd11a hoxd11a
+hoxd12a hoxd12a
+hoxd3a hoxd3a
+hoxd4a hoxd4a
+hoxd9a hoxd9a
+hsf1+hsf4 hsf1
+hsf1+hsf4 hsf4
+hsf2+si:dkey-18a10.3 hsf2
+hsf2+si:dkey-18a10.3 si:dkey-18a10.3
+ikzf1 ikzf1
+ikzf2 ikzf2
+insm1a+insm1b insm1a
+insm1a+insm1b insm1b
+irf10+irf3+irf8+irf9 irf10
+irf10+irf3+irf8+irf9 irf3
+irf10+irf3+irf8+irf9 irf8
+irf10+irf3+irf8+irf9 irf9
+irf1a irf1a
+irf1b+irf2+irf2a+irf7 irf1b
+irf1b+irf2+irf2a+irf7 irf2
+irf1b+irf2+irf2a+irf7 irf2a
+irf1b+irf2+irf2a+irf7 irf7
+irf4a+irf4b irf4a
+irf4a+irf4b irf4b
+irf5 irf5
+irf6 irf6
+irx1b+irx4a+irx4b irx1b
+irx1b+irx4a+irx4b irx4a
+irx1b+irx4a+irx4b irx4b
+irx2a irx2a
+irx3a+irx3b_irx5a+irx5b irx3a
+irx3a+irx3b_irx5a+irx5b irx3b
+irx3a+irx3b_irx5a+irx5b irx5a
+irx3a+irx3b_irx5a+irx5b irx5b
+irx6a irx6a
+isl1+isl1l isl1
+isl1+isl1l isl1l
+isl2a+isl2b isl2a
+isl2a+isl2b isl2b
+junba+junbb junba
+junba+junbb junbb
+jund_batf batf
+jund_batf jund
+klf12a klf12a
+klf12b klf12b
+klf13+zgc:153115 klf13
+klf13+zgc:153115 zgc:153115:zgc
+klf15+si:ch211-117k10.3 klf15
+klf15+si:ch211-117k10.3 si:ch211-117k10.3
+klf3+klf8 klf3
+klf3+klf8 klf8
+klf5l+klf6a+klf6b klf5l
+klf5l+klf6a+klf6b klf6a
+klf5l+klf6a+klf6b klf6b
+klf7a+klf7b klf7a
+klf7a+klf7b klf7b
+lef1 lef1
+lhx1a+lhx1b lhx1a
+lhx1a+lhx1b lhx1b
+lhx2b+lhx9 lhx2b
+lhx2b+lhx9 lhx9
+lhx3+lhx4 lhx3
+lhx3+lhx4 lhx4
+lhx5 lhx5
+lhx6-1 lhx6-1
+lhx6 lhx6
+lhx8a+lhx8b lhx8a
+lhx8a+lhx8b lhx8b
+lmx1al_lmx1ba+lmx1bb lmx1al
+lmx1al_lmx1ba+lmx1bb lmx1ba
+lmx1al_lmx1ba+lmx1bb lmx1bb
+lmx1a lmx1a
+mafa+mafbb mafa
+mafa+mafbb mafbb
+mafb+nrl mafb
+mafb+nrl nrl
+maff+mafga+mafgb maff
+maff+mafga+mafgb mafga
+maff+mafga+mafgb mafgb
+mafk mafk
+maza+mazb maza
+maza+mazb mazb
+mbd2 mbd2
+mecom+rlf+sinhcafl mecom
+mecom+rlf+sinhcafl rlf
+mecom+rlf+sinhcafl sinhcafl
+mecp2 mecp2
+mef2aa+mef2ab mef2aa
+mef2aa+mef2ab mef2ab
+mef2b mef2b
+mef2ca+mef2cb mef2ca
+mef2ca+mef2cb mef2cb
+mef2d mef2d
+meis1a+meis1b meis1a
+meis1a+meis1b meis1b
+meis3 meis3
+meox1 meox1
+meox2a meox2a
+meox2b meox2b
+mespaa+mespab+mespba+mespbb_id4_TCF4 id4
+mespaa+mespab+mespba+mespbb_id4_TCF4 mespaa
+mespaa+mespab+mespba+mespbb_id4_TCF4 mespab
+mespaa+mespab+mespba+mespbb_id4_TCF4 mespba
+mespaa+mespab+mespba+mespbb_id4_TCF4 mespbb
+mespaa+mespab+mespba+mespbb_id4_TCF4 TCF4
+mixl1+mxtx1+sebox mixl1
+mixl1+mxtx1+sebox mxtx1
+mixl1+mxtx1+sebox sebox
+mnx1+mnx2a+mnx2b mnx1
+mnx1+mnx2a+mnx2b mnx2a
+mnx1+mnx2a+mnx2b mnx2b
+msc msc
+msx1a msx1a
+msx1b+msx3 msx1b
+msx1b+msx3 msx3
+msx2a msx2a
+msx2b msx2b
+mta3 mta3
+mtf1 mtf1
+mybl1 mybl1
+mybl2a_myb myb
+mybl2a_myb mybl2a
+mybl2b mybl2b
+myca+mych myca
+myca+mych mych
+mycb mycb
+mycn mycn
+myf6+ttf1.4 myf6
+myf6+ttf1.4 ttf1.4
+myod1 myod1
+myog myog
+neurod1 neurod1
+nfat5a+nfat5b nfat5a
+nfat5a+nfat5b nfat5b
+nfatc2a nfatc2a
+nfe2l1b+nfe2l2b nfe2l1b
+nfe2l1b+nfe2l2b nfe2l2b
+nfe2l3 nfe2l3
+nfe2+nfe2l1a_nfe2l2a nfe2
+nfe2+nfe2l1a_nfe2l2a nfe2l1a
+nfe2+nfe2l1a_nfe2l2a nfe2l2a
+nfia nfia
+nfic nfic
+nfil3-5+nfil3-6+si:dkey-60d5.3 nfil3-5
+nfil3-5+nfil3-6+si:dkey-60d5.3 nfil3-6
+nfil3-5+nfil3-6+si:dkey-60d5.3 si:dkey-60d5.3
+nfil3+si:dkey-172o19.2 nfil3
+nfil3+si:dkey-172o19.2 si:dkey-172o19.2
+nfixa+nfixb nfixa
+nfixa+nfixb nfixb
+nfkb1_rela nfkb1
+nfkb1_rela rela
+nfkb2 nfkb2
+nkx1.2la nkx1.2la
+nkx1.2lb nkx1.2lb
+nkx2.1 nkx2.1
+nkx2.2a nkx2.2a
+nkx2.2b nkx2.2b
+nkx2.3+nkx2.7 nkx2.3
+nkx2.3+nkx2.7 nkx2.7
+nkx2.4a+nkx2.4b nkx2.4a
+nkx2.4a+nkx2.4b nkx2.4b
+nkx2.5 nkx2.5
+nkx3-1 nkx3-1
+nkx3-2+nkx3.3-2 nkx3-2
+nkx3-2+nkx3.3-2 nkx3.3-2
+nkx3.3-1 nkx3.3-1
+nkx6.1 nkx6.1
+nkx6.3 nkx6.3
+noto+vax1+vent noto
+noto+vax1+vent vax1
+noto+vax1+vent vent
+nr1d2a nr1d2a
+nr1h4 nr1h4
+nr2c1 nr2c1
+nr2c2 nr2c2
+nr2e1 nr2e1
+nr2e3 nr2e3
+nr2f1a nr2f1a
+nr2f1b+nr2f5 nr2f1b
+nr2f1b+nr2f5 nr2f5
+nr2f2 nr2f2
+nr2f6a+nr2f6b nr2f6a
+nr2f6a+nr2f6b nr2f6b
+nr3c2 nr3c2
+nr4a1 nr4a1
+nr4a2a nr4a2a
+nr4a2b nr4a2b
+nr4a3 nr4a3
+nr5a1a+nr5a2+nr5a5 nr5a1a
+nr5a1a+nr5a2+nr5a5 nr5a2
+nr5a1a+nr5a2+nr5a5 nr5a5
+nr6a1a nr6a1a
+nr6a1b nr6a1b
+olig2+olig4_olig1_olig3 olig1
+olig2+olig4_olig1_olig3 olig2
+olig2+olig4_olig1_olig3 olig3
+olig2+olig4_olig1_olig3 olig4
+onecut1+onecutl onecut1
+onecut1+onecutl onecutl
+onecut2 onecut2
+onecut3a+onecut3b onecut3a
+onecut3a+onecut3b onecut3b
+osr1 osr1
+osr2 osr2
+otpa+otpb otpa
+otpa+otpb otpb
+otx2a_otx1 otx1
+otx2a_otx1 otx2a
+otx2b otx2b
+patz1 patz1
+pax10+pax4+pax6a+pax6b pax10
+pax10+pax4+pax6a+pax6b pax4
+pax10+pax4+pax6a+pax6b pax6a
+pax10+pax4+pax6a+pax6b pax6b
+pax1a+pax1b_pax9 pax1a
+pax1a+pax1b_pax9 pax1b
+pax1a+pax1b_pax9 pax9
+pax2a+pax5 pax2a
+pax2a+pax5 pax5
+pax2b pax2b
+pax3a+pax3b pax3a
+pax3a+pax3b pax3b
+pax7a+pax7b+prop1 pax7a
+pax7a+pax7b+prop1 pax7b
+pax7a+pax7b+prop1 prop1
+pax8 pax8
+pbx1a+pbx1b+pbx2+pbx3a+pbx3b pbx1a
+pbx1a+pbx1b+pbx2+pbx3a+pbx3b pbx1b
+pbx1a+pbx1b+pbx2+pbx3a+pbx3b pbx2
+pbx1a+pbx1b+pbx2+pbx3a+pbx3b pbx3a
+pbx1a+pbx1b+pbx2+pbx3a+pbx3b pbx3b
+pdx1_pbx4 pbx4
+pdx1_pbx4 pdx1
+pgr pgr
+phox2a phox2a
+phox2ba phox2ba
+phox2bb phox2bb
+pitx1+pitx3 pitx1
+pitx1+pitx3 pitx3
+pitx2 pitx2
+pknox2 pknox2
+plag1+plagx plag1
+plag1+plagx plagx
+pou1f1 pou1f1
+pou2f2a pou2f2a
+pou2f3 pou2f3
+pou3f1 pou3f1
+pou3f2a+pou3f2b+pou3f3a+pou3f3b pou3f2a
+pou3f2a+pou3f2b+pou3f3a+pou3f3b pou3f2b
+pou3f2a+pou3f2b+pou3f3a+pou3f3b pou3f3a
+pou3f2a+pou3f2b+pou3f3a+pou3f3b pou3f3b
+pou4f1+pou4f4_pou4f3 pou4f1
+pou4f1+pou4f4_pou4f3 pou4f3
+pou4f1+pou4f4_pou4f3 pou4f4:zgc
+pou4f2 pou4f2
+pou5f3 pou5f3
+pou6f1 pou6f1
+pou6f2 pou6f2
+pparaa+pparda+ppardb pparaa
+pparaa+pparda+ppardb pparda
+pparaa+pparda+ppardb ppardb
+prdm14 prdm14
+prdm1a prdm1a
+prdm2a prdm2a
+prdm4 prdm4
+prox1a+prox2+prox3 prox1a
+prox1a+prox2+prox3 prox2
+prox1a+prox2+prox3 prox3
+prrx1a+prrx1b prrx1a
+prrx1a+prrx1b prrx1b
+ptf1a+si:dkey-34f9.3 ptf1a
+ptf1a+si:dkey-34f9.3 si:dkey-34f9.3
+raraa+rarab raraa
+raraa+rarab rarab
+rarga rarga
+rargb_pparab pparab
+rargb_pparab rargb
+rbpja rbpja
+rbpjb rbpjb
+rcor1 rcor1
+rel rel
+rest rest
+rfx1b rfx1b
+rfx2+rfx4_rfx3_rfx1a rfx1a
+rfx2+rfx4_rfx3_rfx1a rfx2
+rfx2+rfx4_rfx3_rfx1a rfx3
+rfx2+rfx4_rfx3_rfx1a rfx4
+rfx5 rfx5
+rfx7a+rfx7b rfx7a
+rfx7a+rfx7b rfx7b
+roraa+rorab roraa
+roraa+rorab rorab
+rorc rorc
+rreb1a+rreb1b+znf598 rreb1a
+rreb1a+rreb1b+znf598 rreb1b
+rreb1a+rreb1b+znf598 znf598
+rsl1d1+sp3a_sp4_klf4_sp8a+sp8b klf4
+rsl1d1+sp3a_sp4_klf4_sp8a+sp8b rsl1d1
+rsl1d1+sp3a_sp4_klf4_sp8a+sp8b sp3a
+rsl1d1+sp3a_sp4_klf4_sp8a+sp8b sp4
+rsl1d1+sp3a_sp4_klf4_sp8a+sp8b sp8a
+rsl1d1+sp3a_sp4_klf4_sp8a+sp8b sp8b
+runx1 runx1
+runx2a+runx2b runx2a
+runx2a+runx2b runx2b
+runx3 runx3
+rx1+rx2 rx1
+rx1+rx2 rx2
+rx3 rx3
+rxraa+rxrab+rxrba+rxrgb rxraa
+rxraa+rxrab+rxrba+rxrgb rxrab
+rxraa+rxrab+rxrba+rxrgb rxrba
+rxraa+rxrab+rxrba+rxrgb rxrgb
+rxrbb rxrbb
+scrt1a+scrt1b+scrt2 scrt1a
+scrt1a+scrt1b+scrt2 scrt1b
+scrt1a+scrt1b+scrt2 scrt2
+shox2_uncx4.1_lhx2a_vsx1_shox lhx2a
+shox2_uncx4.1_lhx2a_vsx1_shox shox
+shox2_uncx4.1_lhx2a_vsx1_shox shox2
+shox2_uncx4.1_lhx2a_vsx1_shox uncx4.1
+shox2_uncx4.1_lhx2a_vsx1_shox vsx1
+si:ch1073-357b18.4 si:ch1073-357b18.4
+si:ch211-153j24.3 si:ch211-153j24.3
+si:dkey-149i17.7_zic1 si:dkey-149i17.7
+si:dkey-149i17.7_zic1 zic1
+si:dkey-229b18.3+snai2 si:dkey-229b18.3
+si:dkey-229b18.3+snai2 snai2
+si:dkey-43p13.5+uncx si:dkey-43p13.5
+si:dkey-43p13.5+uncx uncx
+si:dkey-56e3.3 si:dkey-56e3.3
+si:dkey-68o6.8 si:dkey-68o6.8
+six1b_six3a+six3b+six7_six1a+six2a+six2b+six5+six9 six1a
+six1b_six3a+six3b+six7_six1a+six2a+six2b+six5+six9 six1b
+six1b_six3a+six3b+six7_six1a+six2a+six2b+six5+six9 six2a
+six1b_six3a+six3b+six7_six1a+six2a+six2b+six5+six9 six2b
+six1b_six3a+six3b+six7_six1a+six2a+six2b+six5+six9 six3a
+six1b_six3a+six3b+six7_six1a+six2a+six2b+six5+six9 six3b
+six1b_six3a+six3b+six7_six1a+six2a+six2b+six5+six9 six5
+six1b_six3a+six3b+six7_six1a+six2a+six2b+six5+six9 six7
+six1b_six3a+six3b+six7_six1a+six2a+six2b+six5+six9 six9
+six4a+six4b six4a
+six4a+six4b six4b
+six6a+six6b six6a
+six6a+six6b six6b
+smad1_smad10a+smad4a_smad2 smad1
+smad1_smad10a+smad4a_smad2 smad10a
+smad1_smad10a+smad4a_smad2 smad2
+smad1_smad10a+smad4a_smad2 smad4a
+smad3a+smad3b smad3a
+smad3a+smad3b smad3b
+snai1a snai1a
+snai1b+snai3 snai1b
+snai1b+snai3 snai3
+sox10 sox10
+sox11a+sox11b sox11a
+sox11a+sox11b sox11b
+sox12 sox12
+sox13 sox13
+sox14+sox14-1 sox14
+sox14+sox14-1 sox14-1
+sox17 sox17
+sox18 sox18
+sox19a+sox19b+sox3 sox19a
+sox19a+sox19b+sox3 sox19b
+sox19a+sox19b+sox3 sox3
+sox1a+sox1b sox1a
+sox1a+sox1b sox1b
+sox21a+sox21b sox21a
+sox21a+sox21b sox21b
+sox2 sox2
+sox32+sox7 sox32
+sox32+sox7 sox7
+sox4a+sox4b sox4a
+sox4a+sox4b sox4b
+sox5 sox5
+sox6 sox6
+sox8a+sox8b sox8a
+sox8a+sox8b sox8b
+sox9a+sox9b sox9a
+sox9a+sox9b sox9b
+sp1 sp1
+sp2 sp2
+sp3b sp3b
+SPDEF SPDEF
+spi1a+spi1b spi1a
+spi1a+spi1b spi1b
+spi2+spic spi2
+spi2+spic spic
+srebf2 srebf2
+srfa+srfb srfa
+srfa+srfb srfb
+stat1b+stat2-2_stat1a+stat2-1 stat1a
+stat1b+stat2-2_stat1a+stat2-1 stat1b
+stat1b+stat2-2_stat1a+stat2-1 stat2-1
+stat1b+stat2-2_stat1a+stat2-1 stat2-2
+stat3 stat3
+stat4 stat4
+stat5a+stat5b stat5a
+stat5a+stat5b stat5b
+stat6 stat6
+tal1 tal1
+tbp tbp
+tbr1a+tbr1b+tbx21 tbr1a
+tbr1a+tbr1b+tbx21 tbr1b
+tbr1a+tbr1b+tbx21 tbx21
+tbx16+tbx16l+tbx2a+tbx2b tbx16
+tbx16+tbx16l+tbx2a+tbx2b tbx16l
+tbx16+tbx16l+tbx2a+tbx2b tbx2a
+tbx16+tbx16l+tbx2a+tbx2b tbx2b
+tbx1_tbx4_mgaa_si:ch211-69l10.4+tbx15 mgaa
+tbx1_tbx4_mgaa_si:ch211-69l10.4+tbx15 si:ch211-69l10.4
+tbx1_tbx4_mgaa_si:ch211-69l10.4+tbx15 tbx1
+tbx1_tbx4_mgaa_si:ch211-69l10.4+tbx15 tbx15
+tbx1_tbx4_mgaa_si:ch211-69l10.4+tbx15 tbx4
+tbx20 tbx20
+tbx3a+tbx3b tbx3a
+tbx3a+tbx3b tbx3b
+tbx5a+tbx5b tbx5a
+tbx5a+tbx5b tbx5b
+tbxta+tbxtb tbxta
+tbxta+tbxtb tbxtb
+tcf12 tcf12
+tcf21 tcf21
+tcf3a+tcf3b tcf3a
+tcf3a+tcf3b tcf3b
+tcf7l1a+tcf7l1b+tcf7l2 tcf7l1a
+tcf7l1a+tcf7l1b+tcf7l2 tcf7l1b
+tcf7l1a+tcf7l1b+tcf7l2 tcf7l2
+tcf7 tcf7
+tead1b_CT573494.3+tead1a CT573494.3
+tead1b_CT573494.3+tead1a tead1a
+tead1b_CT573494.3+tead1a tead1b
+tead3a+tead3b tead3a
+tead3a+tead3b tead3b
+tefa+tefb tefa
+tefa+tefb tefb
+tfap2a+tfap2c tfap2a
+tfap2a+tfap2c tfap2c
+tfap2b tfap2b
+tfap2d tfap2d
+tfap2e tfap2e
+tfap4 tfap4
+tfcp2+tfcp2l1+ubp1 tfcp2
+tfcp2+tfcp2l1+ubp1 tfcp2l1
+tfcp2+tfcp2l1+ubp1 ubp1
+tfdp1a+tfdp1b tfdp1a
+tfdp1a+tfdp1b tfdp1b
+tfe3a+tfe3b tfe3a
+tfe3a+tfe3b tfe3b
+tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l bhlhe41
+tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l max
+tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l mitfa
+tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l mitfb
+tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l mlx
+tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l mlxipl
+tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l mnta
+tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l mntb
+tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l mxi1
+tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l si:ch73-59f11.3
+tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l srebf1
+tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l tfeb
+tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l tfec
+tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l usf1
+tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l usf1l
+tfec_bhlhe41_usf2_mitfa+mitfb_mnta+mntb_mlxipl_usf1_mlx_tfeb_max+si:ch73-59f11.3_srebf1_mxi1_usf1l usf2
+tgif1 tgif1
+thraa+thrab thraa
+thraa+thrab thrab
+thrb thrb
+tlx1 tlx1
+tp53 tp53
+tp63 tp63
+tp73 tp73
+twist1a+twist1b+twist3 twist1a
+twist1a+twist1b+twist3 twist1b
+twist1a+twist1b+twist3 twist3
+vax2 vax2
+vdrb_VDR+nr1i2 nr1i2
+vdrb_VDR+nr1i2 VDR
+vdrb_VDR+nr1i2 vdrb
+vox vox
+vsx2 vsx2
+wt1a+wt1b wt1a
+wt1a+wt1b wt1b
+xbp1 xbp1
+ybx1 ybx1
+yy1a+yy1b yy1a
+yy1a+yy1b yy1b
+zbtb12.1+zbtb12.2 zbtb12.1
+zbtb12.1+zbtb12.2 zbtb12.2
+zbtb14 zbtb14
+zbtb16a+zbtb16b zbtb16a
+zbtb16a+zbtb16b zbtb16b
+zbtb18+zbtb42 zbtb18
+zbtb18+zbtb42 zbtb42
+zbtb38 zbtb38
+zbtb3 zbtb3
+zbtb47b+znf652 zbtb47b
+zbtb47b+znf652 znf652
+zbtb49 zbtb49
+zbtb4 zbtb4
+zbtb7a+zbtb7c zbtb7a
+zbtb7a+zbtb7c zbtb7c
+zbtb7b zbtb7b
+zeb1a+zeb1b zeb1a
+zeb1a+zeb1b zeb1b
+zgc:101100 zgc:101100:zgc
+zgc:112083 zgc:112083:zgc
+zgc:161969 zgc:161969:zgc
+zic2a+zic2b zic2a
+zic2a+zic2b zic2b
+zic3 zic3
+zic4+zic6 zic4
+zic4+zic6 zic6
+znf143b znf143b
+znf148 znf148
+znf384l znf384l
+znf410 znf410
+znf423 znf423
+znf740a+znf740b znf740a
+znf740a+znf740b znf740b
